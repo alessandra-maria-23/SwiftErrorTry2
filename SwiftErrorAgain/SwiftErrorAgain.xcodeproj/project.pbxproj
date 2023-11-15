@@ -15,6 +15,7 @@
 		29815FC52B04E5610009F09F /* SwiftErrorAgainUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29815FC42B04E5610009F09F /* SwiftErrorAgainUITests.swift */; };
 		29815FC72B04E5610009F09F /* SwiftErrorAgainUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29815FC62B04E5610009F09F /* SwiftErrorAgainUITestsLaunchTests.swift */; };
 		29815FD62B04E66E0009F09F /* file2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29815FD52B04E66E0009F09F /* file2.swift */; };
+		29815FD42B04E5E90009F09F /* file1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29815FD32B04E5E90009F09F /* file1.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,6 +47,7 @@
 		29815FC42B04E5610009F09F /* SwiftErrorAgainUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftErrorAgainUITests.swift; sourceTree = "<group>"; };
 		29815FC62B04E5610009F09F /* SwiftErrorAgainUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftErrorAgainUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		29815FD52B04E66E0009F09F /* file2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = file2.swift; sourceTree = "<group>"; };
+		29815FD32B04E5E90009F09F /* file1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = file1.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 				29815FAD2B04E5610009F09F /* Assets.xcassets */,
 				29815FAF2B04E5610009F09F /* Preview Content */,
 				29815FD52B04E66E0009F09F /* file2.swift */,
+				29815FD32B04E5E90009F09F /* file1.swift */,
 			);
 			path = SwiftErrorAgain;
 			sourceTree = "<group>";
@@ -262,6 +265,7 @@
 			files = (
 				29815FAC2B04E5600009F09F /* ContentView.swift in Sources */,
 				29815FD62B04E66E0009F09F /* file2.swift in Sources */,
+				29815FD42B04E5E90009F09F /* file1.swift in Sources */,
 				29815FAA2B04E5600009F09F /* SwiftErrorAgainApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
